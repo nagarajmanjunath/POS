@@ -1,7 +1,7 @@
 # POS
 Proof of stake mining algorithm using (GO lang)
 
-* useage
+* usage
    
   >  git clone https://github.com/nagarajmanjunath/POS.git
 
